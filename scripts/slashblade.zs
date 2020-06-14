@@ -1,0 +1,4 @@
+#modloaded flammpfeil.slashblade
+recipes.removeByRecipeName("flammpfeil.slashblade:muramasa");
+recipes.addShaped(<flammpfeil.slashblade:slashbladenamed>.withTag({TextureName: "named/muramasa/muramasa", SpecialAttackType: 1, SlashBlade: {}, ModelName: "named/muramasa/muramasa", isDefaultBewitched: 1 as byte, CurrentItemName: "flammpfeil.slashblade.named.muramasa", CustomMaxDamage: 50, AttackAmplifier: -4.0 as float, baseAttackModifier: 6.0 as float, "SB.SEffect": {}, AttributeModifiers: [{UUIDMost: -3801225194067177672 as long, UUIDLeast: -6586624321849018929 as long, Amount: 2.0, Slot: "mainhand", AttributeName: "generic.attackDamage", Operation: 0, Name: "Weapon modifier"}, {UUIDMost: -422425648963762075 as long, UUIDLeast: -5756800103171642205 as long, Amount: -2.4000000953674316, Slot: "mainhand", AttributeName: "generic.attackSpeed", Operation: 0, Name: "Weapon modifier"}], StandbyRenderType: 2}),
+[[<minecraft:bedrock>,<minecraft:stone>]]);

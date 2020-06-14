@@ -1,0 +1,1 @@
+game.setLocalization("test.crafttweaker", "crafttweaker");

@@ -1,0 +1,4 @@
+item.contenttweaker.advanced_infinite_fruit.name=§6饕餮之果
+item.contenttweaker.level_upper.name=幻想御手
+message.isc.level_upper.success=已成功将%s技能升至%s级。
+message.isc.level_upper.fail=升级技能失败！可能是因为所有技能均已达到满级。

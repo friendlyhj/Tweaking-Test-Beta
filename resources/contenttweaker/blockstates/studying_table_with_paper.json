@@ -1,0 +1,17 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "top": "contenttweaker:blocks/studying_table_paper",
+      "side": "contenttweaker:blocks/studying_table_base",
+      "bottom": "contenttweaker:blocks/studying_table_base"
+    },
+    "model": "minecraft:cube_bottom_top",
+    "uvlock": false,
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}
